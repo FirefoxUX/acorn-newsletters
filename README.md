@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # History
 ## 2022
 - <a href="https://firefoxux.github.io/design-systems-newsletter/2022/september/Sep-12-2022.html" title="September 2022">September 2022</a>
@@ -10,6 +11,8 @@
 ---
 layout: default
 ---
+=======
+>>>>>>> b409e11 (Get rid of theme mods)
 # Firefox Design Systems Newsletter
 >>>>>>> 61a7ae9 (Add layout to readme)
 
