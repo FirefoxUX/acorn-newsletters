@@ -1,9 +1,9 @@
 # History
 ## 2024
-- <a href="https://firefoxux.github.io/design-systems-newsletter/2023/march/Apr-25-2024.html" title="April 2024">April 2024</a>
+- <a href="https://firefoxux.github.io/design-systems-newsletter/2023/april/Apr-25-2024.html" title="April 2024">April 2024</a>
 
 ## 2023
-- <a href="https://firefoxux.github.io/design-systems-newsletter/2023/march/Jul-12-2023.html" title="July 2023">July 2023</a>
+- <a href="https://firefoxux.github.io/design-systems-newsletter/2023/july/Jul-12-2023.html" title="July 2023">July 2023</a>
 - <a href="https://firefoxux.github.io/design-systems-newsletter/2023/march/Mar-29-2023.html" title="March 2023">March 2023</a>
 
 ## 2022
