@@ -1,5 +1,6 @@
 # History
 ## 2024
+- <a href="https://firefoxux.github.io/acorn-newsletters/2024/october/Oct-31-2024.html" title="October 2024">October 2024</a>
 - <a href="https://firefoxux.github.io/acorn-newsletters/2024/april/Apr-25-2024.html" title="April 2024">April 2024</a>
 
 ## 2023
